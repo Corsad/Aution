@@ -1,0 +1,4 @@
+Saint01;Magi;123;9000
+Santa01;Hollow Blue;10000.0
+Satan01;Deep Bite;50.0
+Santa02;Crimson House;70.0
